@@ -1,0 +1,409 @@
+2022-05-27 15:04:41.740 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 15:04:41.759 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 15:04:41.765 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 15:04:41.776 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 15:04:41.778 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 15:05:09.379 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 15:05:09.433 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 15:05:09.523 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 15:05:09.592 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 15:05:09.607 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 15:09:24.399 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 15:09:24.419 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 15:09:24.425 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 15:09:24.439 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 15:09:24.447 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 15:22:42.305 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 15:22:42.346 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 15:22:42.353 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 15:22:42.368 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 15:22:42.383 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 15:23:33.927 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:60177and local addres: /127.0.0.1:5153 
+2022-05-27 15:23:33.930 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:60177" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 15:27:07.306 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 15:27:07.325 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 15:27:07.331 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 15:27:07.349 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 15:27:07.351 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 15:31:40.490 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:60288and local addres: /127.0.0.1:5153 
+2022-05-27 15:31:40.516 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:60288" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 15:33:06.320 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 15:33:06.363 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 15:33:06.369 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 15:33:06.386 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 15:33:06.388 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 15:34:34.359 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:60307and local addres: /127.0.0.1:5153 
+2022-05-27 15:35:46.322 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:60307" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 16:09:08.967 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 16:09:09.029 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 16:09:09.034 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 16:09:09.053 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 16:09:09.055 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 16:09:56.905 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:60553and local addres: /127.0.0.1:5153 
+2022-05-27 16:09:56.927 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:60553" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 16:42:08.133 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 16:42:08.162 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 16:42:08.166 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 16:42:08.196 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 16:42:08.197 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 16:42:41.520 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:60848and local addres: /127.0.0.1:5153 
+2022-05-27 16:42:41.543 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:60848" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 16:50:29.130 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 16:50:29.155 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 16:50:29.169 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 16:50:29.186 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 16:50:29.191 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 16:50:58.376 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:60958and local addres: /127.0.0.1:5153 
+2022-05-27 16:50:58.401 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:60958" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 16:55:14.470 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection closed with: /127.0.0.1 
+2022-05-27 16:55:14.480 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] reading from the key is canceled because the remote forcibly closed the connection in read method in class de.tum.i13.server.nio.SimpleNioServer 
+2022-05-27 16:55:20.824 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 16:55:20.858 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 16:55:20.862 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 16:55:20.873 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 16:55:20.874 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 16:56:03.404 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:61017and local addres: /127.0.0.1:5153 
+2022-05-27 16:56:03.427 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:61017" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 17:03:12.039 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 17:03:12.075 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 17:03:12.279 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 17:03:12.396 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 17:03:12.398 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 17:04:20.963 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:61061and local addres: /127.0.0.1:5153 
+2022-05-27 17:04:20.985 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:61061" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 17:05:21.620 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 17:05:21.664 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 17:05:21.684 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 17:05:21.754 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 17:05:21.772 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 17:07:02.975 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:61083and local addres: /127.0.0.1:5153 
+2022-05-27 17:07:40.309 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:61083" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 17:25:00.338 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 17:25:00.372 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 17:25:00.376 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 17:25:00.406 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 17:25:00.409 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 17:25:27.693 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:61320and local addres: /127.0.0.1:5153 
+2022-05-27 17:25:27.703 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:61320" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 17:29:11.096 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 17:29:11.189 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 17:29:11.248 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 17:29:11.329 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 17:29:11.332 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 17:30:14.351 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:61381and local addres: /127.0.0.1:5153 
+2022-05-27 17:31:06.251 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:61381" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 17:39:24.376 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 17:39:24.425 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 17:39:24.454 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 17:39:24.518 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 17:39:24.520 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 17:39:48.105 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:61474and local addres: /127.0.0.1:5153 
+2022-05-27 17:39:48.128 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:61474" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 17:44:05.088 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection closed with: /127.0.0.1 
+2022-05-27 17:44:05.106 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] reading from the key is canceled because the remote forcibly closed the connection in read method in class de.tum.i13.server.nio.SimpleNioServer 
+2022-05-27 17:44:10.057 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 17:44:10.193 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 17:44:10.201 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 17:44:10.226 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 17:44:10.228 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 17:44:30.782 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 17:44:30.799 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 17:44:30.805 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 17:44:30.815 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 17:44:30.816 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 17:44:43.717 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:61524and local addres: /127.0.0.1:5153 
+2022-05-27 17:44:43.719 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:61524" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 17:45:26.425 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection closed with: /127.0.0.1 
+2022-05-27 17:45:26.443 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Remote entity shut the selectionKey down cleanly de.tum.i13.server.nio.SimpleNioServer 
+2022-05-27 17:45:34.611 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:61539and local addres: /127.0.0.1:5153 
+2022-05-27 17:45:34.612 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:61539" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 17:46:08.142 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:61542and local addres: /127.0.0.1:5153 
+2022-05-27 17:46:08.145 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:61542" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 19:26:13.758 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 19:26:13.799 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 19:26:13.806 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 19:26:13.818 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:26:13.820 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:26:55.134 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 19:26:55.159 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 19:26:55.165 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 19:26:55.177 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:26:55.179 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:27:15.750 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:62391and local addres: /127.0.0.1:5153 
+2022-05-27 19:27:15.753 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:62391" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 19:27:56.087 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 19:27:56.109 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 19:27:56.115 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 19:27:56.127 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:27:56.129 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:28:00.953 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:62406and local addres: /127.0.0.1:5153 
+2022-05-27 19:28:00.961 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:62406" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 19:28:03.836 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:62407and local addres: /127.0.0.1:5153 
+2022-05-27 19:28:03.839 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:62407" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 19:29:02.600 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 19:29:02.613 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 19:29:02.623 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 19:29:02.647 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:29:02.651 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:29:13.045 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:62437and local addres: /127.0.0.1:5153 
+2022-05-27 19:29:13.049 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:62437" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 19:31:08.384 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 19:31:08.401 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 19:31:08.412 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 19:31:08.435 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:31:08.437 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:31:38.011 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 19:31:38.033 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 19:31:38.070 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 19:31:38.093 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:31:38.098 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:32:10.707 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:62480and local addres: /127.0.0.1:5153 
+2022-05-27 19:32:10.720 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:62480" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 19:32:52.591 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection closed with: /127.0.0.1 
+2022-05-27 19:32:52.616 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Remote entity shut the selectionKey down cleanly de.tum.i13.server.nio.SimpleNioServer 
+2022-05-27 19:33:13.719 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 19:33:13.977 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 19:33:14.274 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 19:33:14.303 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:33:14.305 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:33:39.632 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:62514and local addres: /127.0.0.1:5153 
+2022-05-27 19:33:39.652 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:62514" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 19:39:03.598 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection closed with: /127.0.0.1 
+2022-05-27 19:39:03.639 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Remote entity shut the selectionKey down cleanly de.tum.i13.server.nio.SimpleNioServer 
+2022-05-27 19:40:24.572 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 19:40:24.624 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 19:40:24.635 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 19:40:24.660 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:40:24.662 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:40:48.228 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:62581and local addres: /127.0.0.1:5153 
+2022-05-27 19:40:48.230 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:62581" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 19:41:24.459 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 19:41:24.480 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 19:41:24.521 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 19:41:24.537 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:41:24.539 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:41:34.078 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:62592and local addres: /127.0.0.1:5153 
+2022-05-27 19:41:34.086 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:62592" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 19:42:10.658 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 19:42:10.675 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 19:42:10.680 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 19:42:10.691 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:42:10.692 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:42:21.380 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 19:42:21.482 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 19:42:21.627 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 19:42:21.747 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:42:21.751 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:42:38.556 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:62613and local addres: /127.0.0.1:5153 
+2022-05-27 19:42:38.564 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:62613" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 19:44:35.539 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 19:44:35.559 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 19:44:35.564 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 19:44:35.580 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:44:35.582 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:44:40.416 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:62636and local addres: /127.0.0.1:5153 
+2022-05-27 19:44:40.423 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:62636" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 19:45:03.749 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 19:45:03.775 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 19:45:03.921 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 19:45:03.993 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:45:03.995 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:45:15.941 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:62652and local addres: /127.0.0.1:5153 
+2022-05-27 19:45:15.948 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:62652" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 19:48:03.224 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 19:48:03.301 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 19:48:03.523 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 19:48:16.863 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:48:48.659 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:49:01.689 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 19:49:01.710 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 19:49:01.929 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 19:49:02.007 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:49:23.312 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:49:29.830 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 19:49:29.955 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 19:49:30.125 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 19:49:30.214 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:49:49.104 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 19:49:49.127 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 19:49:49.211 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 19:49:49.238 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 19:51:26.950 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 19:51:26.976 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 19:51:27.069 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 19:51:27.117 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 20:08:36.391 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 20:08:36.545 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 20:08:36.552 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 20:08:36.562 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 20:09:01.791 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 20:09:01.820 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 20:09:01.842 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 20:09:01.855 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 20:09:22.398 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 20:09:22.412 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 20:09:22.504 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 20:09:22.525 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 20:12:10.793 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 20:12:10.830 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 20:12:10.964 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 20:12:10.992 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 20:12:36.146 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 20:12:36.824 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 20:13:02.267 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 20:13:23.401 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 20:15:01.728 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 20:15:02.581 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 20:15:22.096 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 20:15:42.762 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 20:15:42.769 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 20:15:57.967 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 20:15:58.701 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 20:16:05.734 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 20:16:40.917 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 20:17:55.752 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 20:18:52.955 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:62978and local addres: /127.0.0.1:5153 
+2022-05-27 20:18:52.964 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:62978" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 20:22:28.544 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection closed with: /127.0.0.1 
+2022-05-27 20:22:28.565 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Remote entity shut the selectionKey down cleanly de.tum.i13.server.nio.SimpleNioServer 
+2022-05-27 20:23:20.973 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 20:23:22.465 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 20:23:34.716 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 20:23:58.164 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 20:25:17.264 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:63040and local addres: /127.0.0.1:5153 
+2022-05-27 20:25:17.288 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:63040" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 20:26:32.767 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection closed with: /127.0.0.1 
+2022-05-27 20:26:32.825 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Remote entity shut the selectionKey down cleanly de.tum.i13.server.nio.SimpleNioServer 
+2022-05-27 20:28:05.099 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 20:28:05.135 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 20:28:05.139 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 20:28:05.144 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 20:28:19.380 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:63072and local addres: /127.0.0.1:5153 
+2022-05-27 20:28:19.382 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:63072" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 20:30:42.348 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection closed with: /127.0.0.1 
+2022-05-27 20:30:42.363 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Remote entity shut the selectionKey down cleanly de.tum.i13.server.nio.SimpleNioServer 
+2022-05-27 20:31:28.518 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:63125and local addres: /127.0.0.1:5153 
+2022-05-27 20:31:28.519 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:63125" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 20:32:16.628 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 20:32:16.751 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 20:32:16.814 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 20:32:16.822 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 20:32:20.607 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:63144and local addres: /127.0.0.1:5153 
+2022-05-27 20:32:20.615 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:63144" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 20:34:27.160 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 20:34:27.186 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 20:34:27.285 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 20:34:27.337 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 20:34:35.627 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 20:34:35.657 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 20:34:35.710 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 20:34:35.727 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 20:34:49.531 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 20:34:49.546 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 20:34:49.622 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 20:34:49.632 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 20:35:07.716 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:63205and local addres: /127.0.0.1:5153 
+2022-05-27 20:35:07.720 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:63205" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 20:38:36.978 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 20:38:37.035 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 20:38:37.045 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 20:38:37.059 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 20:38:49.172 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:63239and local addres: /127.0.0.1:5153 
+2022-05-27 20:38:49.180 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:63239" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 20:39:53.200 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 20:39:53.263 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 20:39:53.429 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 20:39:53.468 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 20:40:31.300 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:63265and local addres: /127.0.0.1:5153 
+2022-05-27 20:40:31.306 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:63265" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 20:42:29.762 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 20:42:29.817 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 20:42:29.913 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 20:42:29.923 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 20:42:49.298 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 20:42:49.316 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 20:42:49.324 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 20:42:49.327 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 20:42:52.156 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:63310and local addres: /127.0.0.1:5153 
+2022-05-27 20:42:52.159 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:63310" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 20:43:55.667 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 20:43:55.739 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 20:43:55.842 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 20:43:55.855 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 20:44:42.117 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:63333and local addres: /127.0.0.1:5153 
+2022-05-27 20:44:42.124 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:63333" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 20:47:01.003 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection closed with: /127.0.0.1 
+2022-05-27 20:47:01.025 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Remote entity shut the selectionKey down cleanly de.tum.i13.server.nio.SimpleNioServer 
+2022-05-27 20:47:01.029 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:63357and local addres: /127.0.0.1:5153 
+2022-05-27 20:47:01.034 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:63357" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 20:47:06.604 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 20:47:06.616 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 20:47:06.621 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 20:47:06.625 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 20:47:08.488 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:63366and local addres: /127.0.0.1:5153 
+2022-05-27 20:47:08.495 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:63366" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 20:47:29.424 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection closed with: /127.0.0.1 
+2022-05-27 20:47:29.429 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Remote entity shut the selectionKey down cleanly de.tum.i13.server.nio.SimpleNioServer 
+2022-05-27 20:51:53.090 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 20:51:53.114 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 20:51:53.119 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 20:51:53.138 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 20:51:58.652 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:63412and local addres: /127.0.0.1:5153 
+2022-05-27 20:51:58.655 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:63412" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 20:52:34.607 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection closed with: /127.0.0.1 
+2022-05-27 20:52:34.611 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Remote entity shut the selectionKey down cleanly de.tum.i13.server.nio.SimpleNioServer 
+2022-05-27 20:53:02.475 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 20:53:02.489 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 20:53:02.500 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 20:53:02.519 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 20:53:02.523 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 20:53:07.546 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:63441and local addres: /127.0.0.1:5153 
+2022-05-27 20:53:07.550 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:63441" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 20:53:26.505 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection closed with: /127.0.0.1 
+2022-05-27 20:53:26.522 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Remote entity shut the selectionKey down cleanly de.tum.i13.server.nio.SimpleNioServer 
+2022-05-27 21:56:01.775 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 21:56:01.821 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 21:56:01.832 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 21:56:01.865 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 21:56:01.867 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 21:56:26.950 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:64168and local addres: /127.0.0.1:5153 
+2022-05-27 21:56:26.953 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:64168" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 22:04:12.356 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 22:04:12.375 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 22:04:12.379 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 22:04:12.382 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 22:04:12.384 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The hashmap is empty in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 22:04:26.409 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:64222and local addres: /127.0.0.1:5153 
+2022-05-27 22:04:26.411 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:64222" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 22:37:09.292 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection closed with: /127.0.0.1 
+2022-05-27 22:37:09.507 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Remote entity shut the selectionKey down cleanly de.tum.i13.server.nio.SimpleNioServer 
+2022-05-27 22:37:36.418 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:64560and local addres: /127.0.0.1:5153 
+2022-05-27 22:37:36.427 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:64560" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 22:37:56.435 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 22:37:56.572 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 22:37:56.594 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 22:37:56.624 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 22:37:59.427 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:64573and local addres: /127.0.0.1:5153 
+2022-05-27 22:37:59.432 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:64573" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 22:41:11.264 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection closed with: /127.0.0.1 
+2022-05-27 22:41:11.284 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Remote entity shut the selectionKey down cleanly de.tum.i13.server.nio.SimpleNioServer 
+2022-05-27 22:55:58.598 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:64730and local addres: /127.0.0.1:5153 
+2022-05-27 22:55:58.617 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:64730" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 22:56:36.298 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Config: Config{port=5153, listenaddr='127.0.0.1', bootstrap=clouddatabases.i13.in.tum.de/<unresolved>:5153, dataDir=data, logfile=echo.log, usagehelp=false} 
+2022-05-27 22:56:36.318 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] starting server 
+2022-05-27 22:56:36.323 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The cache displacement is: LRUde.tum.i13.server.Database.CacheFileHandler 
+2022-05-27 22:56:36.330 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Load the file to the hashmap in de.tum.i13.server.Database.DatabaseStructure 
+2022-05-27 22:57:55.752 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:64762and local addres: /127.0.0.1:5153 
+2022-05-27 22:57:55.762 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:64762" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 22:59:04.894 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection closed with: /127.0.0.1 
+2022-05-27 22:59:04.914 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Remote entity shut the selectionKey down cleanly de.tum.i13.server.nio.SimpleNioServer 
+2022-05-27 22:59:22.533 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:64791and local addres: /127.0.0.1:5153 
+2022-05-27 22:59:22.535 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:64791" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 23:09:01.209 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection closed with: /127.0.0.1 
+2022-05-27 23:09:01.216 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Remote entity shut the selectionKey down cleanly de.tum.i13.server.nio.SimpleNioServer 
+2022-05-27 23:09:43.902 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:64905and local addres: /127.0.0.1:5153 
+2022-05-27 23:09:43.908 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:64905" and the localAddress "/127.0.0.1:5153" 
+2022-05-27 23:14:10.239 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection closed with: /127.0.0.1 
+2022-05-27 23:14:10.259 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] Remote entity shut the selectionKey down cleanly de.tum.i13.server.nio.SimpleNioServer 
+2022-05-27 23:14:24.912 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection established for remote address: /127.0.0.1:64949and local addres: /127.0.0.1:5153 
+2022-05-27 23:14:24.914 INFO    [de.tum.i13.server.nio.StartSimpleNioServer] The connection with the remoteAddress "/127.0.0.1:64949" and the localAddress "/127.0.0.1:5153" 

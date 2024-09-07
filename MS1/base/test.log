@@ -1,0 +1,5 @@
+2022-05-06 20:53:27.156 INFO    [de.tum.i13.client.TestClient] Creating a new Socket 
+2022-05-06 20:53:27.179 INFO    [de.tum.i13.client.TestClient] Connecting to server 
+2022-05-06 20:53:27.180 INFO    [de.tum.i13.client.TestClient] Getting the outputstream and inputstream 
+2022-05-06 20:53:27.180 INFO    [de.tum.i13.client.TestClient] sending hello echo 
+2022-05-06 20:53:27.181 INFO    [de.tum.i13.client.TestClient] printing what the server has returned 

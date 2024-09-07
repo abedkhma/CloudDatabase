@@ -1,0 +1,277 @@
+2022-05-26 23:02:46.160 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-26 23:02:46.172 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: null 
+2022-05-27 15:01:45.882 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 15:01:45.918 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: null 
+2022-05-27 15:23:34.005 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 15:23:34.322 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: null 
+2022-05-27 15:30:53.552 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 15:32:20.322 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: null 
+2022-05-27 15:33:26.763 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 15:37:33.216 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: null 
+2022-05-27 16:09:38.601 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 16:12:47.539 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: null 
+2022-05-27 16:42:29.188 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 16:42:46.819 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: null 
+2022-05-27 16:50:48.339 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 16:55:45.611 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 17:03:04.737 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153RemoteAddr: /127.0.0.1:61017 
+2022-05-27 17:03:57.007 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 17:05:15.996 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153RemoteAddr: /127.0.0.1:61061 
+2022-05-27 17:06:29.214 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 17:24:43.937 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153RemoteAddr: /127.0.0.1:61083 
+2022-05-27 17:25:18.769 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 17:27:38.323 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153RemoteAddr: /127.0.0.1:61320 
+2022-05-27 17:29:29.126 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 17:37:59.626 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153RemoteAddr: /127.0.0.1:61381 
+2022-05-27 17:39:38.686 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 17:40:03.385 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153RemoteAddr: /127.0.0.1:61474 
+2022-05-27 17:40:24.087 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: put Abdalla Mahamid 
+2022-05-27 17:44:43.765 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 17:44:43.783 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153RemoteAddr: /127.0.0.1:61524 
+2022-05-27 17:45:34.666 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 17:45:34.686 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153RemoteAddr: /127.0.0.1:61539 
+2022-05-27 17:46:08.146 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 17:46:08.153 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153RemoteAddr: /127.0.0.1:61542 
+2022-05-27 17:46:53.013 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: put Abdalla Mahamid 
+2022-05-27 17:46:53.029 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: Error: unknown command 
+2022-05-27 19:27:15.759 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 19:27:15.782 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:62391 
+2022-05-27 19:28:00.956 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 19:28:00.970 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:62406 
+2022-05-27 19:28:03.849 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 19:28:03.855 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:62407 
+2022-05-27 19:28:12.761 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: put Abdalla Mahamid 
+2022-05-27 19:28:12.826 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: PUT_SUCCESS 
+2022-05-27 19:28:32.097 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Yousef 
+2022-05-27 19:28:32.105 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: Error: unknown command 
+2022-05-27 19:29:13.048 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 19:29:13.056 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:62437 
+2022-05-27 19:29:27.952 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: put Abdalla MAhamid 
+2022-05-27 19:29:28.009 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: PUT_SUCCESS 
+2022-05-27 19:29:40.796 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: put Rafeek Ranralla  
+2022-05-27 19:29:40.811 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: PUT_SUCCESS 
+2022-05-27 19:29:46.963 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 19:30:07.408 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: MAhamid 
+2022-05-27 19:30:07.418 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get ada 
+2022-05-27 19:30:07.421 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: null 
+2022-05-27 19:32:10.720 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 19:32:10.728 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:62480 
+2022-05-27 19:32:30.645 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: put Abdalla Mahamid  
+2022-05-27 19:32:30.794 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: PUT_SUCCESS 
+2022-05-27 19:33:39.730 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 19:33:39.765 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:62514 
+2022-05-27 19:33:51.372 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: put Abdalla MAhamid 
+2022-05-27 19:34:38.439 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: PUT_SUCCESS 
+2022-05-27 19:34:50.225 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: put Rafeek Nasralla 
+2022-05-27 19:34:56.902 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: PUT_SUCCESS 
+2022-05-27 19:35:12.676 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: put Chino Arabe 
+2022-05-27 19:37:05.182 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: PUT_SUCCESS 
+2022-05-27 19:37:13.640 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 19:40:48.278 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 19:40:48.316 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:62581 
+2022-05-27 19:40:53.918 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 19:40:53.939 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: Error: unknown command 
+2022-05-27 19:41:34.085 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 19:41:34.095 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:62592 
+2022-05-27 19:41:47.723 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: put Abdalla Mahamid 
+2022-05-27 19:41:47.776 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: PUT_SUCCESS 
+2022-05-27 19:41:53.784 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 19:41:53.789 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: Mahamid 
+2022-05-27 19:42:38.549 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 19:42:38.576 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:62613 
+2022-05-27 19:42:49.862 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 19:43:26.562 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: Error: unknown command 
+2022-05-27 19:44:40.417 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 19:44:40.434 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:62636 
+2022-05-27 19:44:47.480 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 19:44:47.494 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: null 
+2022-05-27 19:45:15.937 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 19:45:15.968 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:62652 
+2022-05-27 19:45:22.256 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 19:47:36.648 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: null 
+2022-05-27 20:18:53.005 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 20:18:53.029 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:62978 
+2022-05-27 20:19:19.183 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: put Abdalla Mahamid 
+2022-05-27 20:21:13.805 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: PUT_SUCCESS 
+2022-05-27 20:21:24.867 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 20:22:00.312 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: Mahamid 
+2022-05-27 20:25:17.374 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 20:25:17.401 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:63040 
+2022-05-27 20:25:24.994 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 20:25:59.594 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: Mahamid 
+2022-05-27 20:28:19.434 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 20:28:19.460 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:63072 
+2022-05-27 20:28:26.861 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Rafeek 
+2022-05-27 20:28:26.870 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: null 
+2022-05-27 20:28:39.164 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: put Rafeek Nasralla 
+2022-05-27 20:28:39.206 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: PUT_SUCCESS 
+2022-05-27 20:28:46.019 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Rafeek  
+2022-05-27 20:28:46.025 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: Nasralla 
+2022-05-27 20:29:03.044 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: delete Abdalla 
+2022-05-27 20:29:03.059 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: DELETE_SUCCESS 
+2022-05-27 20:29:07.602 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 20:29:07.604 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: null 
+2022-05-27 20:29:17.563 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: put Abdalla Mahamid 
+2022-05-27 20:29:17.571 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: PUT_SUCCESS 
+2022-05-27 20:29:20.932 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdallla 
+2022-05-27 20:29:20.942 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: null 
+2022-05-27 20:29:25.138 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 20:29:25.142 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: Mahamid 
+2022-05-27 20:29:33.304 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: put Abdalla TUM 
+2022-05-27 20:29:33.310 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: PUT_SUCCESS 
+2022-05-27 20:29:36.671 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 20:29:36.682 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: TUM 
+2022-05-27 20:30:14.531 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: put Abdan a  
+2022-05-27 20:30:14.546 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: PUT_SUCCESS 
+2022-05-27 20:30:26.556 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: put Ameera Salama 
+2022-05-27 20:30:26.561 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: PUT_SUCCESS 
+2022-05-27 20:30:32.506 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 20:30:32.511 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: TUM 
+2022-05-27 20:31:28.567 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 20:31:28.586 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:63125 
+2022-05-27 20:31:34.754 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 20:31:34.759 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: TUM 
+2022-05-27 20:31:48.405 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: delete Abdalla 
+2022-05-27 20:31:48.420 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: DELETE_CACHE_ERROR 
+2022-05-27 20:32:20.609 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 20:32:20.623 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:63144 
+2022-05-27 20:32:25.527 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 20:32:25.534 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: null 
+2022-05-27 20:32:37.470 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: put Abdalla Mahamid  
+2022-05-27 20:32:37.514 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: PUT_SUCCESS 
+2022-05-27 20:32:43.302 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 20:32:43.307 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: Mahamid  
+2022-05-27 20:32:49.377 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: delete Abdalla 
+2022-05-27 20:32:49.389 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: DELETE_CACHE_ERROR 
+2022-05-27 20:33:05.362 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 20:33:05.368 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: null 
+2022-05-27 20:33:35.595 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: delete Abdalla 
+2022-05-27 20:33:35.617 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: DELETE_ERROR 
+2022-05-27 20:33:39.657 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 20:33:39.662 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: null 
+2022-05-27 20:33:53.022 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: put Abdalla Mahamid 
+2022-05-27 20:33:53.034 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: PUT_SUCCESS 
+2022-05-27 20:33:55.867 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 20:33:55.870 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: Mahamid 
+2022-05-27 20:34:03.252 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: delete Abdalla 
+2022-05-27 20:34:03.263 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: DELETE_CACHE_ERROR 
+2022-05-27 20:35:07.707 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 20:35:07.724 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:63205 
+2022-05-27 20:35:16.137 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: put Abdalla Mahamid 
+2022-05-27 20:35:24.283 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: PUT_SUCCESS 
+2022-05-27 20:35:33.448 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla  
+2022-05-27 20:35:42.150 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: Mahamid 
+2022-05-27 20:35:53.142 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: delete Abdalla 
+2022-05-27 20:37:52.716 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: DELETE_CACHE_ERROR 
+2022-05-27 20:38:49.173 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 20:38:49.182 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:63239 
+2022-05-27 20:38:56.885 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 20:38:56.903 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: null 
+2022-05-27 20:39:07.865 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: put Abdalla Mahamid 
+2022-05-27 20:39:07.902 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: PUT_SUCCESS 
+2022-05-27 20:39:11.120 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 20:39:11.123 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: Mahamid 
+2022-05-27 20:39:17.500 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: delete Abdalla 
+2022-05-27 20:39:17.511 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: DELETE_CACHE_ERROR 
+2022-05-27 20:39:26.561 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla  
+2022-05-27 20:39:26.567 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: null 
+2022-05-27 20:40:31.292 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 20:40:31.319 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:63265 
+2022-05-27 20:40:42.580 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: put Abdalla Mahamidf 
+2022-05-27 20:40:46.547 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: PUT_SUCCESS 
+2022-05-27 20:40:53.155 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: delete Abdalla  
+2022-05-27 20:42:21.355 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: DELETE_CACHE_ERROR 
+2022-05-27 20:42:52.155 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 20:42:52.173 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:63310 
+2022-05-27 20:43:02.219 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: put Abdalla Mahamid 
+2022-05-27 20:43:02.260 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: PUT_SUCCESS 
+2022-05-27 20:43:04.855 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 20:43:04.858 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: Mahamid 
+2022-05-27 20:43:10.438 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: delete Abdalla 
+2022-05-27 20:43:10.442 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: DELETE_SUCCESS 
+2022-05-27 20:43:16.438 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla  
+2022-05-27 20:43:16.440 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: null 
+2022-05-27 20:43:23.698 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: delete Abdalla 
+2022-05-27 20:43:23.701 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: DELETE_ERROR 
+2022-05-27 20:43:33.179 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: put Abdalla Mahamid 
+2022-05-27 20:43:33.186 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: PUT_SUCCESS 
+2022-05-27 20:43:37.930 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 20:43:37.933 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: Mahamid 
+2022-05-27 20:44:42.113 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 20:44:42.133 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:63333 
+2022-05-27 20:44:55.380 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 20:46:15.568 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: Mahamid 
+2022-05-27 20:46:48.714 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 20:47:01.046 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:63357 
+2022-05-27 20:47:08.494 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 20:47:08.511 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:63366 
+2022-05-27 20:47:11.791 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 20:47:11.798 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: Mahamid 
+2022-05-27 20:47:18.629 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: delete Abdalla  
+2022-05-27 20:47:18.670 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: DELETE_CACHE_ERROR 
+2022-05-27 20:47:24.358 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdala  
+2022-05-27 20:47:24.360 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: null 
+2022-05-27 20:51:58.699 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 20:51:58.730 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:63412 
+2022-05-27 20:52:06.225 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 20:52:06.236 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: null 
+2022-05-27 20:52:13.000 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Rafeek 
+2022-05-27 20:52:13.002 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: Nasralla 
+2022-05-27 20:52:22.184 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: delete Rafeek 
+2022-05-27 20:52:22.230 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: DELETE_SUCCESS 
+2022-05-27 20:52:28.607 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Rafeek 
+2022-05-27 20:52:28.609 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: null 
+2022-05-27 20:53:07.584 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 20:53:07.601 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:63441 
+2022-05-27 20:53:14.252 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 20:53:14.259 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: null 
+2022-05-27 20:53:17.684 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Rafeek 
+2022-05-27 20:53:17.697 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: null 
+2022-05-27 20:53:21.584 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Ameera 
+2022-05-27 20:53:21.586 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: null 
+2022-05-27 21:56:27.003 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 21:56:27.036 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:64168 
+2022-05-27 21:56:41.103 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get apple123@# 
+2022-05-27 21:56:41.123 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get_error apple123@# 
+2022-05-27 22:04:26.418 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 22:04:26.429 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:64222 
+2022-05-27 22:04:44.383 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: put Abdalla Mahamid 
+2022-05-27 22:04:44.442 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: put_success Abdalla Mahamid 
+2022-05-27 22:04:52.332 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get ad adas 
+2022-05-27 22:04:52.337 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get_error ad 
+2022-05-27 22:05:00.747 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get Abdalla 
+2022-05-27 22:05:00.751 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: Mahamid 
+2022-05-27 22:05:04.977 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: delete Abdalla 
+2022-05-27 22:05:04.994 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: delete_success Abdalla 
+2022-05-27 22:37:03.058 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get afasdfa 
+2022-05-27 22:37:03.206 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get_error afasdfa 
+2022-05-27 22:37:36.536 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 22:37:36.566 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:64560 
+2022-05-27 22:37:39.400 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get afsdfasdfas 
+2022-05-27 22:37:39.404 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get_error afsdfasdfas 
+2022-05-27 22:37:59.430 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 22:37:59.467 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:64573 
+2022-05-27 22:38:05.673 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get fasdasdf 
+2022-05-27 22:38:05.680 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get_error 
+2022-05-27 22:55:58.666 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 22:55:58.744 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:64730 
+2022-05-27 22:56:01.053 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get afsadfas 
+2022-05-27 22:56:01.060 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get_error 
+2022-05-27 22:56:23.673 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get fsad  
+2022-05-27 22:56:23.684 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get_error 
+2022-05-27 22:57:55.812 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 22:57:55.853 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:64762 
+2022-05-27 22:57:58.564 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get fnasinfda 
+2022-05-27 22:57:58.575 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get_error fnasinfda 
+2022-05-27 22:59:22.697 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 22:59:22.720 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:64791 
+2022-05-27 22:59:24.713 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get dfasdfas 
+2022-05-27 22:59:24.719 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get_error dfasdfas 
+2022-05-27 23:09:43.957 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 23:09:43.975 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:64905 
+2022-05-27 23:09:47.296 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get aaa 
+2022-05-27 23:09:47.301 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get_error aaa 
+2022-05-27 23:14:24.955 INFO    [de.tum.i13.client.ActiveConnection] Connect to the SERVER  
+2022-05-27 23:14:24.981 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: The connection is successfully established: LocalAddr: /127.0.0.1:5153| RemoteAddr: /127.0.0.1:64949 
+2022-05-27 23:14:32.671 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get afda 
+2022-05-27 23:14:32.674 INFO    [de.tum.i13.client.ActiveConnection] Write to the SERVER: get_error afda 
